@@ -25,5 +25,19 @@
   ✨ Learning something new every day
 </p>
 
+---
 
+<h2 align="center">⏰ My Projects</h2>
+
+<p align="center">
+  <b>Digital Clock</b><br/>
+  A digital clock built using HTML, CSS and JavaScript.<br/><br/>
+  <a href="https://gihani-kavee.github.io/Digital-clock-project/">
+    🌐 Live Demo
+  </a>
+  |
+  <a href="https://github.com/gihani-kavee/Digital-clock-project">
+    💻 Source Code
+  </a>
+</p>
 
