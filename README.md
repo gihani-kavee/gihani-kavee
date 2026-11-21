@@ -41,3 +41,19 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <b>Cute Calculator</b><br/>
+  A responsive calculator built using HTML, CSS and JavaScript with Light and Dark theme switching.<br/><br/>
+  <a href="https://gihani-kavee.github.io/Calculator/">
+    🌐 Live Demo
+  </a>
+  |
+  <a href="https://github.com/gihani-kavee/Calculator">
+    💻 Source Code
+  </a>
+</p>
+
+
+
